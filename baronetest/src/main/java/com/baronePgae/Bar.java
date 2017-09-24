@@ -10,5 +10,6 @@ public class Bar {
 	  System.out.println("we are having 2nd beer");
 	  System.out.println("we are about to drink 3rd");
 	  System.out.println("seems we are getting problem");
+	  System.out.println("final commit");
   }
 }
